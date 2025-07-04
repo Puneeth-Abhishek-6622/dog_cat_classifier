@@ -9,6 +9,7 @@ This project implements a simple **Convolutional Neural Network (CNN)** using **
 - **Source**: [Kaggle Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
 - **Structure**:
 
+'''
 data/
 ├── cat/
 │ ├── cat.0.jpg
